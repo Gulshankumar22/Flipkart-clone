@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 const App = () => {
 
-  return (
+  return (  
     <>
     <div className="flex flex-col min-h-screen">
       <Header />
